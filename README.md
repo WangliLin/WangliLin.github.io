@@ -1,1 +1,1 @@
-# [new blog](WangliLin.github.io/blog)
+# [new blog](http://WangliLin.github.io/blog)
